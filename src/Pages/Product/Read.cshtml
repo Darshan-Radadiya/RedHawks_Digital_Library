@@ -1,0 +1,46 @@
+﻿@page "{id}"
+@using ContosoCrafts.WebSite.Services
+@inject JsonFileProductService ProductService
+@model ContosoCrafts.WebSite.Pages.Product.ReadModel
+
+@{
+    ViewData["Title"] = "Read page";
+}
+
+<h1>Read</h1>
+
+<div class="container">
+    <h5 class="title" id="productTitle">@Model.Product.Title</h5>
+
+    <img class="card-img" src='@Model.Product.Image' alt='Image for @Model.Product.Title'>
+
+    <p class="card-text">@Model.Product.Description</p>
+
+    <h4 class="title">Add a Comment</h4>
+    <form method="post">
+        <textarea id="comment" name="comment" class="form-control"></textarea>
+        <br />
+        <input type="submit" value="Submit" class="btn btn-primary" />
+    </form>
+    <br />
+
+    <h4 class="drk-md-light-text">All Comments</h4>
+    <br />
+    @if (Model.Product.Comments != null)
+    {
+
+        @foreach (var comment in Model.Product.Comments)
+        {
+            <h5 class="drk-md-light-text">Comment by Anon:</h5>
+            <p class="drk-md-light-text">@comment</p>
+        }
+
+    }
+</div>
+<br />
+<br />
+
+<div class="row">
+    <a asp-page="Update" asp-route-id="@Model.Product.Id" class="btn btn-primary">Update</a> &nbsp; &nbsp;
+    <a asp-page="Delete" asp-route-id="@Model.Product.Id" class="btn btn-danger">Delete</a>
+</div>

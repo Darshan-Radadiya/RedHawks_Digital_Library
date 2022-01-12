@@ -1,0 +1,218 @@
+﻿.checked {
+    color: orange;
+}
+
+.fa-star {
+    cursor: pointer;
+}
+
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+.card-columns .card:hover .card-img {
+    opacity: 1;
+    -webkit-transform-style: preserve-3d;
+}
+
+.card-columns .card-body {
+    height: 100px;
+    font-family: 'Nunito',Verdana, Geneva, Tahoma, sans-serif;
+    background: #fbfafd;
+}
+
+.card-columns .card-img {
+    height: 330px;
+    vertical-align: bottom;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    opacity: .8;
+}
+
+.modal .card-img {
+    height: 500px;
+    vertical-align: bottom;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.card-columns .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(37,33,82,.12), 0 4px 8px rgba(37,33,82,.06);
+}
+
+.card-footer {
+    background: #fbfafd;
+}
+
+
+a.navbar-brand {
+    white-space: normal;
+    font-family:'Lucida Calligraphy';
+    font-size: xx-large;
+    text-align: center;
+    word-break: break-all;
+    padding-top: 0.3125 rem;
+    padding-bottom: 0.3125 rem;
+}
+
+.read-textarea {
+    font-family: Calibri;
+    font-size: 1.2em;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #007bff;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #252152;
+    border-color: #252152;
+}
+
+    .btn-primary:hover {
+        color: #fff;
+        background-color: #e9a8a6;
+        border-color: #e9a8a6;
+    }
+/* Start: Style for create button*/
+
+.create_btn {
+    background-color: #252152;
+    border: 1px solid blue;
+    cursor: pointer;
+    color: white;
+    border-radius: 6px;
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+
+    .create_btn:hover { /*on hover backgroud color, shadow and color will change.*/
+        background-color: #252152;
+        box-shadow: 0 0 10px #d4cada;
+        color: Menu;
+    }
+
+/*End: create button style*/
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    font-size: 10px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 15px;
+    }
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+p {
+    font-family: Calibri;
+}
+
+h1 {
+    font-family: Calibri;
+}
+
+ul {
+    font-family: Calibri;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px; /* Vertically center the text there */
+    font-family: Calibri;
+}
+/*Backgrounds*/
+.bg-navbar {
+    background: -webkit-linear-gradient(110deg, #fbe3b3 60%, #20c997 60%);
+    background: -o-linear-gradient(110deg, #fbe3b3 60%, #20c997 60%);
+    background: -moz-linear-gradient(110deg, #fbe3b3 60%, #20c997 60%);
+    background: linear-gradient(110deg,#cfe2e6 60%, #080529 60%);
+}
+
+.bg-footer {
+    background: -webkit-linear-gradient(110deg, #20c997 60%, #fbe3b3 60%);
+    background: -o-linear-gradient(110deg, #20c997 60%, #fbe3b3 60%);
+    background: -moz-linear-gradient(110deg, #f#20c997be3b3 60%, #fbe3b3 60%);
+    background: linear-gradient(110deg,#cfe2e6 60%, #080529 60%);
+}
+
+/*search bar*/
+.search-bar {
+    margin-left: 255px;
+    margin-top: auto
+}
+
+/*search button*/
+.search-btn {
+    box-shadow: inset 0px 1px 0px 0px #d4cada;
+    background-color: #252152;
+    border-radius: 6px;
+    border: 1px solid #080529;
+    display: inline-block;
+    cursor: pointer;
+    font-family: cursive;
+    font-style: italic;
+    font-size: 14px;
+    color: white;
+    padding: 3px 6px;
+    text-shadow: 0px 1px 0px #fff3f3;
+}
+
+    .search-btn:hover {
+        background-color: #3b6c9a;
+        font-style: normal;
+        color: #ffffff;
+    }
+
+/*logo-image*/
+.logo-img {
+    max-width: 8%;
+    margin-right: 15px;
+}
+
+/*Backgroud color*/
+.body-color {
+    background-color: #e9f3f8;
+}

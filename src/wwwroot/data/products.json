@@ -1,0 +1,262 @@
+[
+  {
+    "Id": "The C Programming Language",
+    "Maker": "@jenlooper",
+    "img": "https://hdphotos.blob.core.windows.net/cover/TheC\u002B\u002BProgrammingLanguage.png",
+    "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+    "Author": "Brian W. Kernighan",
+    "Title": "The C Programming Language",
+    "Description": "This book is meant to help the reader learn how to program in C. It is the definitive reference guide, now in a second edition. Although the first edition was written in 1978, it continues to be a worldwide best-seller. This second edition brings the classic original up to date to include the ANSI standard.",
+    "Ratings": [
+      5,
+      5,
+      5,
+      5,
+      1,
+      5,
+      5,
+      5,
+      5,
+      5,
+      4,
+      5,
+      5
+    ],
+    "Comments": [
+      "test"
+    ]
+  },
+  {
+    "Id": "Artificial Intelligence: A Modern Approach",
+    "Maker": "jenlooper",
+    "img": "https://hdphotos.blob.core.windows.net/cover/ArtificialIntelligenceAModernApproach.jpg",
+    "Url": "https://www.hackster.io/agent-hawking-1/create-a-compact-survival-kit-38bfdb",
+    "Author": "Stuart Russell",
+    "Title": "Artificial Intelligence: A Modern Approach",
+    "Description": "For one or two-semester, undergraduate or graduate-level courses in Artificial Intelligence. The long-anticipated revision of this best-selling text offers the most comprehensive, up-to-date introduction to the theory and practice of artificial intelligence.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "Refactoring: Improving the Design of Existing Code",
+    "Maker": "sailorhg",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/RefactoringImprovingtheDesignofExistingCode.jpg",
+    "Url": "https://twitter.com/sailorhg/status/1090107740049952770",
+    "Author": "Martin Fowler, Kent Beck",
+    "Title": "Refactoring: Improving the Design of Existing Code",
+    "Description": "As the application of object technology?particularly the Java programming language?has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, non-optimal applications. For several years, expert-level object programmers have employed a growing collection of techniques to improve the structural integrity and performance of such existing software programs. Referred to as refactoring, these practices have remained in the domain of experts because no attempt has been made to transcribe the lore into a form that all developers could use... until now. In Refactoring: Improving the Design of Existing Software, renowned object technology mentor Martin Fowler breaks new ground, demystifying these master practices and demonstrating how software practitioners can realize the significant benefits of this new process.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "The Art of Computer Programming, Volume 1: Fundamental Algorithms",
+    "Maker": "sailorhg",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/TheArtofComputerProgrammingVolume1FundamentalAlgorithms.jpg",
+    "Url": "https://twitter.com/sailorhg/status/1090113666911891456",
+    "Author": "Donald Ervin Knuth",
+    "Title": "The Art of Computer Programming, Volume 1: Fundamental Algorithms",
+    "Description": "This first volume in the series begins with basic programming concepts and techniques, then focuses more particularly on information structures-the representation of information inside a computer, the structural relationships between data elements and how to deal with them efficiently. Elementary applications are given to simulation, numerical methods, symbolic computing, software and system design. Dozens of simple and important algorithms and techniques have been added to those of the previous edition. The section on mathematical preliminaries has been extensively revised to match present trends in research.",
+    "Ratings": [
+      5
+    ],
+    "Comments": null
+  },
+  {
+    "Id": "Algorithms",
+    "Maker": "sailorhg",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/CrackingthePMInterview.jpg",
+    "Url": "https://twitter.com/sailorhg/status/1090122822007963648",
+    "Author": "Robert Sedgewick, Kevin Wayne",
+    "Title": "Algorithms",
+    "Description": "This fourth edition of Robert Sedgewick and Kevin Wayne\u0027s Algorithms is the leading textbook on algorithms today and is widely used in colleges and universities worldwide. This book surveys the most important computer algorithms currently in use and provides a full treatment of data structures and algorithms for sorting, searching, graph processing, and string processing -- including fifty algorithms every programmer should know. In this edition, new Java implementations are written in an accessible modular programming style, where all of the code is exposed to the reader and ready to use.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "Modern Operating Systems",
+    "Maker": "sailorhg",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/ModernOperatingSystems.jpg",
+    "Url": "https://twitter.com/sailorhg/status/1090117277540745216",
+    "Author": "Andrew S. Tanenbaum, Herbert Bos",
+    "Title": "Modern Operating Systems",
+    "Description": "For software development professionals and computer science students, Modern Operating Systems gives a solid conceptual overview of operating system design, including detailed case studies of Unix/Linux and Windows 2000.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "Working Effectively with Legacy Code",
+    "Maker": "selinazawacki",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/WorkingEffectivelywithLegacyCode.jpg",
+    "Url": "https://www.instagram.com/p/BNvESj-j8PI/",
+    "Author": "Michael C. Feathers",
+    "Title": "Working Effectively with Legacy Code",
+    "Description": "In this book, Michael Feathers offers start-to-finish strategies for working more effectively with large, untested legacy code bases. This book draws on material Michael created for his renowned Object Mentor seminars, techniques Michael has used in mentoring to help hundreds of developers, technical managers, and testers bring their legacy systems under control.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "Computer Systems: A Programmers Perspective",
+    "Maker": "selinazawacki",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/ComputerSystemsAProgrammerPerspective.jpg",
+    "Url": "https://www.instagram.com/p/BNm6hZzDoEF/",
+    "Author": "Randal E. Bryant, David R. O\u0027Hallaron",
+    "Title": "Computer Systems: A Programmers Perspective",
+    "Description": "For Computer Organization and Architecture and Computer Architecture courses. Often, computer science and computer engineering curricula don\u0027t provide students with a concentrated and consistent introduction to the fundamental concepts that underlie all computer systems. Traditional computer organization and logic design courses cover some of this material, but they focus largely on hardware design. They provide students with little or no understanding of how important software components operate, how application programs use systems, or how system attributes affect the performance and correctness of application programs.  ",
+    "Ratings": [
+      5
+    ],
+    "Comments": null
+  },
+  {
+    "Id": "Computer Networks",
+    "Maker": "vogueandcode",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/ComputerNetworks.jpg",
+    "Url": "https://www.vogueandcode.com/shop/hipster-dev-bro",
+    "Author": "Andrew C. Tanenbaum",
+    "Title": "Computer Networks",
+    "Description": "For courses in computer networking or introductions to networking at both the undergraduate and graduate level in computer science, engineering, CIS, MIS, and business departments. In this revision, the author takes a structured approach to explaining how networks function.",
+    "Ratings": [
+      5,
+      5,
+      3,
+      2,
+      1,
+      5
+    ],
+    "Comments": null
+  },
+  {
+    "Id": "Effective Java",
+    "Maker": "vogueandcode",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/EffectiveJava.jpg",
+    "Url": "https://www.vogueandcode.com/shop/pretty-girls-code-tee",
+    "Author": "Joshua Bloch",
+    "Title": "Effective Java",
+    "Description": "Bloch updates the work to take advantage of these new language and library features, and provides specific best practices for their use. Java\u0027s increased support for multiple paradigms increases the need for best-practices advice, and this book delivers.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "Patterns of Enterprise Application Architecture",
+    "Maker": "vogueandcode",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/PatternsofEnterpriseApplicationArchitecture.jpg",
+    "Url": "https://www.vogueandcode.com/shop/ruby-sis-2",
+    "Author": "Martin Fowler, David Rice, Matthew Foemmel",
+    "Title": "Patterns of Enterprise Application Architecture",
+    "Description": "Patterns of Enterprise Application Architecture is written in direct response to the stiff challenges that face enterprise application developers. The author, noted object-oriented designer Martin Fowler, noticed that despite changes in technology--from Smalltalk to CORBA to Java to .NET--the same basic design ideas can be adapted and applied to solve common problems. With the help of an expert group of contributors, Martin distills over forty recurring solutions into patterns. The result is an indispensable handbook of solutions that are applicable to any enterprise application platform.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "Deep Learning",
+    "Maker": "selinazawacki",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/DeepLearning.jpg",
+    "Url": "https://www.instagram.com/p/BFktVYPinKQ/",
+    "Author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "Title": "Deep Learning",
+    "Description": "The text offers mathematical and conceptual background, covering relevant concepts in linear algebra, probability theory and information theory, numerical computation, and machine learning. It describes deep learning techniques used by practitioners in industry, including deep feedforward networks, regularization, optimization algorithms, convolutional networks, sequence modeling, and practical methodology; and it surveys such applications as natural language processing, speech recognition, computer vision, online recommendation systems, bioinformatics, and videogames. Finally, the book offers research perspectives, covering such theoretical topics as linear factor models, autoencoders, representation learning, structured probabilistic models, Monte Carlo methods, the partition function, approximate inference, and deep generative models.",
+    "Ratings": [
+      5
+    ],
+    "Comments": null
+  },
+  {
+    "Id": "Superintelligence: Paths, Dangers, Strategies",
+    "Maker": "selinazawacki",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/SuperintelligencePathsDangersStrategies.jpg",
+    "Url": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Author": "Nick Bostrom",
+    "Title": "Superintelligence: Paths, Dangers, Strategies",
+    "Description": "The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. If machine brains surpassed human brains in general intelligence, then this new superintelligence could become extremely powerful--possibly beyond our control. As the fate of the gorillas now depends more on humans than on the species itself, so would the fate of humankind depend on the actions of the machine superintelligence.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "From Pixels to Programmable Graphics Hardware",
+    "Maker": "selinazawacki",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/FromPixelstoProgrammableGraphicsHardware.jpg",
+    "Url": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Author": "Alexey Boreskov",
+    "Title": "From Pixels to Programmable Graphics Hardware",
+    "Description": "Modern graphics ?shader architecture? provides unprecedented access to graphical functions and processing power. With this full-color book, programmers can harness its capabilities.",
+    "Ratings": [
+      5
+    ],
+    "Comments": null
+  },
+  {
+    "Id": "Cloud Computing for dummies",
+    "Maker": "selinazawacki",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/CloudComputingforDummies.jpg",
+    "Url": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Author": "Judith Hurwitz",
+    "Title": "Cloud Computing for dummies",
+    "Description": "Most of the information available on cloud computing is either highly technical, with details that are irrelevant to non-technologists, or pure marketing hype, in which the cloud is simply a selling point. This book, however, explains the cloud from the user\u0027s viewpoint?the business user\u0027s in particular. Nayan Ruparelia explains what the cloud is, when to use it (and when not to), how to select a cloud service, how to integrate it with other technologies, and what the best practices are for using cloud computing.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "SQL QuickStart Guide",
+    "Maker": "selinazawacki",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/SQLQuickStartGuide.jpg",
+    "Url": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Author": "Nick Bostrom",
+    "Title": "SQL QuickStart Guide",
+    "Description": "The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. If machine brains surpassed human brains in general intelligence, then this new superintelligence could become extremely powerful--possibly beyond our control. As the fate of the gorillas now depends more on humans than on the species itself, so would the fate of humankind depend on the actions of the machine superintelligence.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "Cracking the Coding Interview",
+    "Maker": "jenlooper",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images2/CrackingtheCodingInterview.png",
+    "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
+    "Author": "Gayle Laakmann McDowell",
+    "Title": "Cracking the Coding Interview",
+    "Description": "Cracking the Coding Interview gives you the interview preparation you need to get the top software developer jobs. This is a deeply technical book and focuses on the software engineering skills to ace your interview. The book is over 500 pages and includes 150 programming interview questions and answers, as well as other advice.",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "Software Testing 2nd Edition",
+    "Maker": "selinazawacki2",
+    "img": "https://temptejasstrg11p6.blob.core.windows.net/images/multithreading.jpg",
+    "Url": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Author": "Maya Posch",
+    "Title": "Software Testing 2nd Edition",
+    "Description": "This textbook examines languages and libraries for multithreaded programming. Readers learn how to create threads in Java and C\u002B\u002B, and develop essential concurrent programming and problem-solving skills. Moreover, the textbook sets itself apart from other comparable works by helping readers to become proficient in key testing and debugging techniques. Among the topics covered, readers are introduced to the relevant aspects of Java, the POSIX Pthreads library, and the Windows Win32 Applications Programming Interface.",
+    "Ratings": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+    ],
+    "Comments": null
+  },
+  {
+    "Id": "55e12319-087b-4a47-b307-a35f1084db76",
+    "Maker": null,
+    "img": "",
+    "Url": "Enter URL",
+    "Author": null,
+    "Title": "Enter Title",
+    "Description": "Enter Description",
+    "Ratings": null,
+    "Comments": null
+  },
+  {
+    "Id": "e0050377-6cca-44a0-bba2-cca284fbc242",
+    "Maker": null,
+    "img": "",
+    "Url": "Enter URL",
+    "Author": null,
+    "Title": "Enter Title",
+    "Description": "Enter Description",
+    "Ratings": null,
+    "Comments": null
+  }
+]

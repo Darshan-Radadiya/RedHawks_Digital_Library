@@ -1,0 +1,34 @@
+﻿@page
+@model ContosoCrafts.WebSite.Pages.Product.IndexModel
+@{
+    ViewData["Title"] = "Index page";
+}
+
+<head>
+    <link href="~/css/tablesort.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+
+        <button class="create_btn"><a asp-page="Create" class="btn btn-link">+ Create</a></button>
+
+        <table class="table-sortable table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Library</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model.Products)
+                {
+                    <tr>
+                        <td><a asp-page="Read" asp-route-id="@product.Id">@product.Title</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <script src="~/js/tablesort.js"></script>
+    </div>
+
+    </body>
